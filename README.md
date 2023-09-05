@@ -8,6 +8,7 @@ or
 Download the "versa_caseStudy.py" by clicking on the download button.
 
 Step 2: Open Terminal or Command Prompt.
+
 Open terminal for Mac or command prompt for Windows.
 
 Step 3: Navigate to Script Directory.
