@@ -5,7 +5,7 @@ Click the "Raw" button.
 
 Right-click and save the file as "versa_caseStudy.py" (with the .py extension).
 or
-Download the "versa_caseStudy.py" by clocking on the download button.
+Download the "versa_caseStudy.py" by clicking on the download button.
 
 Step 2: Open Terminal or Command Prompt.
 Open terminal for Mac or command prompt for Windows.
